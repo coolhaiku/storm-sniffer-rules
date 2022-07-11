@@ -14,7 +14,6 @@
 
 - 彩云天气+解锁VIP 口令: SSC#6hzMgkwHVc# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - 泼辣修图+解锁VIP 口令: SSC#6aLjeqoWjK# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
-- 酷我畅听vip 口令: SSC#5zRLw3THJF# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 
 
 ### Notice
@@ -29,15 +28,42 @@ AppStore 搜索需要分享的 APP -> 点击分享 -> 拷贝链接 -> 粘贴至 
 
  ### 进阶技巧
  
- 如果你想加强自己的动手能力，可以参考其他的仓库学习相关网络调试功能。另外，如 `Thor , Http catcher , iHTTP Tracker , surge , Quantumult X ......` 的规则可以在参考将其改为 `storm-sniffer-rules` ，不同的软件操作上略有不同，但是原理大体是相同的。
+ [官方使用教程](https://www.yuque.com/books/share/714448b3-1b89-4fa9-9b12-b4a4b8bd6adc/glo9g5)
+ 
+ ```
+ 此处引用 `影子` 的正则表达式简单教程
+ 
+ `([\s\S]*?)` 万能匹配表达式，匹配一切；包括空格，换行符；
+ 
+`\s` 匹配一切空格，包括空格，换行，Tab缩进
+`\S` 匹配一切非空字符
+
+`\d` 匹配数字；如修改 `0` 为 `1`
+
+`.` 通配符，但不匹配换行，所有出现换行的字符，都需要使用 `[\s\S]*`
+`\w` 用于匹配字母，数字或下划线字符；如修改 `false` 为 `true`
+`\W` 用于匹配所有与\w不匹配的字符；
+`+` 匹配1次或多次
+`*` 匹配0次或多次
+`?` 匹配0次或1次
+所以 `([\w\W]*)同([\s\S]*)`
+
+正常情况下
+`.*` 会匹配所有字符(换行除外)
+`.*?` 表示非贪婪模式
+
+如 123123123
+`.*3` 会匹配:123123123
+`.*?3` 会匹配:123
+
+```
+
+如果你想加强自己的动手能力，可以参考其他的仓库学习相关网络调试功能。另外，如 `Thor , Http catcher , iHTTP Tracker , surge , Quantumult X ......` 的规则可以在参考将其改为 `storm-sniffer-rules` ，不同的软件操作上略有不同，但是原理大体是相同的。
  
  - 推荐仓库
   - <https://github.com/harry-sunhao/QuanX>
   - <https://github.com/search?p=4&q=http+catcher&ref=opensearch&type=Repositories>
 
- 
- 
- 
 
 ### 特别声明
 
