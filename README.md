@@ -1,17 +1,20 @@
 # storm-sniffer-rules
 >本仓库收录的 storm-sniffer-rules 基本要求
-1. 不加密
-2. 不限制设备数量
 
-## Rules
+- 不限制设备数量
+
+## 未加密规则
 
 - 今日热榜（haiku） 口令: SSC#7QtSc32inU# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - xmind（haiku） 口令: SSC#GPM5fW7HAS# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - symbolab 计算器（haiku） 口令: SSC#DQ463pnbie# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - 奶油壁纸（haiku） 口令: SSC#8eY7Pn6xgt# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 
+## 已加密规则
 
-
+- 彩云天气+解锁VIP 口令: SSC#6hzMgkwHVc# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+- 泼辣修图+解锁VIP 口令: SSC#6aLjeqoWjK# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+- 酷我畅听vip 口令: SSC#5zRLw3THJF# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 
 
 ### Notice
