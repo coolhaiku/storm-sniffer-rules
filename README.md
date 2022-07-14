@@ -14,9 +14,13 @@
 
 - 彩云天气+解锁VIP 口令: SSC#6hzMgkwHVc# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - 泼辣修图+解锁VIP 口令: SSC#6aLjeqoWjK# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+- Lr Adobe Lightroom+解锁VIP 口令: SSC#JpA2rJeWiu# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 
+## 提交未收录规则
 
-### Notice
+<https://github.com/coolhaiku/storm-sniffer-rules/issues/new>
+
+## Notice
 
 1. 导出的规则无需任何更改，格式示例如下：
 
@@ -26,7 +30,7 @@
 
 AppStore 搜索需要分享的 APP -> 点击分享 -> 拷贝链接 -> 粘贴至 `storm-sniffer` 的重写规则描述栏中 -> 分享规则
 
- ### 进阶技巧
+## 进阶技巧
  
 1. [官方使用教程](https://www.yuque.com/books/share/714448b3-1b89-4fa9-9b12-b4a4b8bd6adc/glo9g5)
  
@@ -73,6 +77,6 @@ AppStore 搜索需要分享的 APP -> 点击分享 -> 拷贝链接 -> 粘贴至 
   - <https://github.com/search?p=4&q=http+catcher&ref=opensearch&type=Repositories>
 
 
-### 特别声明
+## 特别声明
 
 本仓库发布的一切 `storm-sniffer-rules` 仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。本仓库信息来自网络，版权争议与本仓库无关。您必须在下载后的24个小时之内，从您的设备中彻底删除上述内容。如果您喜欢该程序，请支持正版软件，购买注册，得到更好的正版服务。如有侵权请提交 Issues 与我们联系处理。
