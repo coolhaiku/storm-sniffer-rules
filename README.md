@@ -15,6 +15,10 @@
 - 彩云天气+解锁VIP 口令: SSC#6hzMgkwHVc# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - 泼辣修图+解锁VIP 口令: SSC#6aLjeqoWjK# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
 - Lr Adobe Lightroom+解锁VIP 口令: SSC#JpA2rJeWiu# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+- 美图秀秀+解锁粉钻VIP 口令: SSC#bwfTSqfcfC# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+- B612咔叽+解锁VIP 口令: SSC#DdEwDbmRUp# 复制本段文本并打开Storm Sniffer(https://t.cn/A6Xjh5bu)
+
+
 
 ## 提交未收录规则
 
